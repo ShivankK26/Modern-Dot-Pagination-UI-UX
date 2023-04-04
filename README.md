@@ -6,7 +6,7 @@
 
 
 
-In this Project, I've built a Modern Dot Pagination which a Developer can integrate in a Project for the Navigation of Pages. It supports Modern UI and is quite attractive during present times.
+In this Project, I've built a Modern Dot Pagination which a Developer can integrate in a Project for the Navigation of Pages. It supports Modern UI and is quite attractive for industrial purposes.
 
 
 Use the `README.md` to get started.
@@ -36,6 +36,6 @@ To get started, create HTML and CSS files and then start working on them.
 <!-- CONTACT -->
 # Contact
 
-Name: Shivank Kapur - shivankkapur2004@example.com
+Name: Shivank Kapur - shivankkapur2004@gmail.com
 
 Project Link: https://shivankk26.github.io/Modern-Dot-Pagination-UI-UX/
